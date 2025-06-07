@@ -1,126 +1,145 @@
 <!-- Profile README for rohit7nkuamr -->
 
-<h1 align="center">Hi 👋, I'm Rohit Kumar</h1>
-<h3 align="center">Game & Web Developer | AI Enthusiast | Lifelong Learner</h3>
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E"/>
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=3776AB"/>
-  <img src="https://img.shields.io/badge/Frontend-HTML5-informational?style=flat&logo=html5&logoColor=white&color=E34F26"/>
-  <img src="https://img.shields.io/badge/Styling-CSS3-informational?style=flat&logo=css3&logoColor=white&color=1572B6"/>
-  <img src="https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=F05032"/>
-  <img src="https://img.shields.io/badge/DevOps-Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED"/>
-  <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnubash&logoColor=white&color=4EAA25"/>
-  <img src="https://img.shields.io/badge/GameDev-Unity-informational?style=flat&logo=unity&logoColor=white&color=000000"/>
-  <img src="https://img.shields.io/badge/Stack-MERN-informational?style=flat&logo=react&logoColor=white&color=61DAFB"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:232526,100:3A7BD5&height=220&section=header&text=Rohit%20Kumar&fontSize=55&fontAlignY=40&desc=Game%20Dev%20%7C%20AI%20Enthusiast%20%7C%20Fullstack%20Creator&descAlign=80&descAlignY=70" />
 </p>
 
----
-
-## 🏁 Objective
-
-Motivated Computer Science student specializing in Graphics and Gaming, passionate about building innovative solutions in game development, web technology, and AI. Seeking opportunities to apply expertise in Unity, MERN Stack, and real-time systems.
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&duration=2500&pause=900&color=3A7BD5FF&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Game+%26+Web+Developer+%7C+AI+Explorer+%7C+Graphics+%26+Gaming+Specialist" />
+</div>
 
 ---
 
-## 🎓 Education
-
-- **B.Tech. in Computer Science (Graphics & Gaming)**  
-  University of Petroleum and Energy Studies, Dehradun  
-  *Nov 2022 – Present* | CGPA: 7.00/10
-
-- **Intermediate (12th Grade)**  
-  City Public School Sikhar, Gaya, Bihar  
-  *Jun 2019 – May 2021* | 70.0%
-
-- **High School (10th Grade)**  
-  City Public School Sikhar, Gaya, Bihar  
-  *Jun 2018 – May 2019* | 68.0%
-
----
-
-## 🛠️ Technical Skills
-
-- **Languages:** C++, C#, Python, Java, JavaScript
-- **Game Development:** Unity, Unity ML-Agents Toolkit, Game Mechanics, AI Integration
-- **Web Development:** MERN Stack (MongoDB, Express.js, React, Node.js), HTML, CSS, Bootstrap
-- **Databases:** SQL, NoSQL, MongoDB
-- **Developer Tools:** VS Code, Git, GitHub
-- **Core CS:** Data Structures & Algorithms, Computer Networks, Operating Systems, DBMS, OOP
+<!-- BADGES & CONTACT -->
+<div align="center">
+  <a href="mailto:rohit7ngod@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/rohit7nkumar/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <img src="https://img.shields.io/badge/Location-Dehradun,%20IN-3A7BD5?style=for-the-badge&logo=google-maps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gaming%20%26%20AI-Unity%20%7C%20ML-Agents-222C37?style=for-the-badge&logo=unity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Stack-MERN-40AE36?style=for-the-badge&logo=react&logoColor=white"/>
+</div>
 
 ---
 
-## 🚩 Projects
+## 🎯 Objective
 
-- **Predictive Racing AI** *(May 2024 – Present)*  
-  AI-powered racing game system built in Unity using C# and Unity ML-Agents Toolkit. Focus on real-time dynamics, machine learning training, and performance optimization.
-
-- **Fleet Management Application – Indian Army** *(2025 – Present)*  
-  Real-time, secure web-based logistics system using MERN stack. Features real-time analytics and robust data security for efficient vehicle management.
-
-- **Blaze Restaurant Website** *(2023)*  
-  Dynamic, responsive restaurant site built with HTML, CSS, JS, and MERN. Includes seamless UI/UX for online ordering.
-
-- **Waste Management System** *(2023 – 2024)*  
-  Smart waste collection optimization system with real-time tracking and analytics, emphasizing backend integration.
-
-- **Game Development Projects** *(2022 – Present)*  
-  Multiple games featuring advanced mechanics, AI, and interactive storytelling with Unity and C#.
-
-- [BlazeWebsite](https://github.com/rohit7nkuamr/BlazeWebsite)  
-- [ARMY](https://github.com/rohit7nkuamr/ARMY)  
-- [portfolio](https://github.com/rohit7nkuamr/portfolio)  
-- [blaze-Beta](https://github.com/rohit7nkuamr/blaze-Beta)  
-- [Predictive-AI-Racing](https://github.com/rohit7nkuamr/Predictive-AI-Racing)  
-- [Project-Alpha](https://github.com/rohit7nkuamr/Project-Alpha)  
-- [Rent-and-Ride](https://github.com/Darkbearer24/Rent-and-Ride)  
-- [rent_and_ride](https://github.com/rohit7nkuamr/rent_and_ride)  
+> **Innovator in Game, Web, and AI Solutions**  
+> Passionate CS student (Graphics & Gaming, UPES Dehradun) with hands-on Unity, MERN, and ML experience.  
+> I build immersive games, scalable web apps, and smart AI driven systems.
 
 ---
 
-## 💼 Internship Experience
+## 📚 Education
 
-**Glad Bharat Foundation – HR Intern** *(May 2023 – Aug 2023)*  
-- Mentored junior volunteers and managed operations for underprivileged communities.
-- Developed skills in leadership, team management, and communication.
+| Degree | Institute | Year | Grade |
+|:------:|:---------:|:----:|:-----:|
+| **B.Tech, Computer Science (Graphics & Gaming)** | UPES Dehradun | 2022–Present | 7.00/10 CGPA |
+| 12th (Intermediate) | City Public School, Gaya | 2021 | 70.0% |
+| 10th (High School)  | City Public School, Gaya | 2019 | 68.0% |
 
 ---
 
-## 🏆 Achievements
+## 🕹️ Tech Stack & Skills
 
-- Secured **All India Rank 240,000** in JEE Mains 2021 (out of 2.2 million+ participants).
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,java,js,react,nodejs,express,mongodb,html,css,bootstrap,git,github,linux,vscode" />
+</div>
+
+- **Game Dev:** Unity, Unity ML-Agents Toolkit, Game Mechanics, AI Integration  
+- **Web:** MERN Stack (MongoDB, Express.js, React, Node.js), HTML, CSS, Bootstrap, Responsive Design  
+- **AI/ML:** Unity ML, Python ML basics  
+- **Core CS:** Data Structures & Algorithms, OOP, Networks, OS, DBMS  
+- **Tools:** Git, GitHub, VS Code, Linux  
+
+---
+
+## 🚀 My Featured Projects
+
+### 🎮 Predictive Racing AI _(2024–Present)_
+> **Unity | C# | ML-Agents | Real-Time AI**
+>
+> - AI-powered racing game: agents adapt to real-time racing dynamics.
+> - ML training & performance optimization with Unity ML-Agents.
+
+---
+
+### 🛡️ Fleet Management – Indian Army _(2025–Present)_
+> **MERN | Analytics | Security**
+>
+> - Secure web app for real-time vehicle logistics/tracking.
+> - Real-time analytics dashboard and robust data protection.
+
+---
+
+### 🍽️ Blaze Restaurant Website _(2023)_
+> **MERN | UI/UX | Responsive**
+>
+> - Full-featured restaurant site; seamless order placement.
+> - Modern, smooth UI/UX with HTML, CSS, JS.
+
+---
+
+### ♻️ Waste Management System _(2023–2024)_
+> **Analytics | Real-Time Systems | Backend**
+>
+> - Smart waste collection tracker using real-time data.
+> - Backend integration for efficient routing and analysis.
+
+---
+
+### 🕹️ Game Dev Portfolio _(2022–Present)_
+> - Multiple Unity/C# projects: Game mechanics, AI features, interactive storytelling.
+
+---
+
+<div align="center">
+
+[![BlazeWebsite](https://img.shields.io/badge/BlazeWebsite-232526?style=flat-square&logo=github)](https://github.com/rohit7nkuamr/BlazeWebsite)
+[![ARMY](https://img.shields.io/badge/ARMY-232526?style=flat-square&logo=github)](https://github.com/rohit7nkuamr/ARMY)
+[![portfolio](https://img.shields.io/badge/portfolio-232526?style=flat-square&logo=github)](https://github.com/rohit7nkuamr/portfolio)
+[![Predictive-AI-Racing](https://img.shields.io/badge/Predictive--AI--Racing-232526?style=flat-square&logo=github)](https://github.com/rohit7nkuamr/Predictive-AI-Racing)
+[![blaze-Beta](https://img.shields.io/badge/blaze--Beta-232526?style=flat-square&logo=github)](https://github.com/rohit7nkuamr/blaze-Beta)
+
+</div>
+
+---
+
+## 🏆 Achievements & Experience
+
+- 🎖️ **JEE Mains 2021 AIR 240,000** (among 2.2M+ participants)
+- 👥 **Glad Bharat Foundation – HR Intern (2023)**  
+  Mentored and led volunteer teams for community outreach.
 
 ---
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rohit7nkuamr&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit7nkuamr&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit7nkuamr&layout=compact&theme=radical"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rohit7nkuamr&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rohit7nkuamr&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rohit7nkuamr&layout=compact&theme=tokyonight&hide_border=true"/>
+</div>
 
 ---
 
-## 🌐 Connect With Me
+## 💡 Philosophy
 
-<p>
-  <a href="mailto:rohit7ngod@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/rohit7nkumar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <!-- <a href="https://twitter.com/your-twitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a> -->
-  <!-- <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=flat&logo=firefox-browser&logoColor=white"/></a> -->
-</p>
+<div align="center">
 
----
+> _"Code is like humor. When you have to explain it, it’s bad."_  
+> <sub>– Cory House</sub>
 
-## 💡 Quotes I Live By
+> _"Simplicity is the soul of efficiency."_  
+> <sub>– Austin Freeman</sub>
 
-> "Code is like humor. When you have to explain it, it’s bad." – Cory House  
-> "Simplicity is the soul of efficiency." – Austin Freeman
+</div>
 
 ---
 
 <!--
-**rohit7nkuamr/rohit7nkuamr** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Feel free to customize to highlight your personality, skills, and projects!
+**rohit7nkuamr/rohit7nkuamr** – B.Tech CS (Graphics & Gaming) | Unity | MERN | AI | Open to collab!
 -->
