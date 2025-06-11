@@ -46,53 +46,62 @@
 ## 🕹️ Tech Stack & Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,java,js,react,nodejs,express,mongodb,html,css,bootstrap,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=unity,cs,cpp,python,java,js,ts,react,nodejs,express,mongodb,html,css,bootstrap,git,github,linux,vscode,docker" />
 </div>
 
 - **Game Dev:** Unity, Unity ML-Agents Toolkit, Game Mechanics, AI Integration  
-- **Web:** MERN Stack (MongoDB, Express.js, React, Node.js), HTML, CSS, Bootstrap, Responsive Design  
-- **AI/ML:** Unity ML, Python ML basics  
+- **Web:** MERN Stack (MongoDB, Express.js, React, Node.js), TypeScript, HTML, CSS, Bootstrap, Responsive Design  
+- **AI/ML:** Unity ML-Agents, Python ML basics  
 - **Core CS:** Data Structures & Algorithms, OOP, Networks, OS, DBMS  
-- **Tools:** Git, GitHub, VS Code, Linux  
+- **Tools:** Git, GitHub, VS Code, Linux, Docker  
 
 ---
 
-## 🚀 My Featured Projects
+## 🚀 Selected Projects
 
-### 🎮 Predictive Racing AI _(2024–Present)_
-> **Unity | C# | ML-Agents | Real-Time AI**
->
-> - AI-powered racing game: agents adapt to real-time racing dynamics.
-> - ML training & performance optimization with Unity ML-Agents.
+### 🎮 Predictive-AI-Racing
+> **Repo:** [Predictive-AI-Racing](https://github.com/rohit7nkuamr/Predictive-AI-Racing)  
+> **Languages:** Python, Unity (ML-Agents), C#  
+> - AI-powered racing game with real-time adaptive agents.
+> - ML training and performance optimization using Unity ML-Agents.
 
 ---
 
-### 🛡️ Fleet Management – Indian Army _(2025–Present)_
-> **MERN | Analytics | Security**
->
+### 🍽️ BlazeWebsite
+> **Repo:** [BlazeWebsite](https://github.com/rohit7nkuamr/BlazeWebsite)  
+> **Languages:** JavaScript, CSS, HTML, Python, Docker  
+> - Full-featured restaurant website (MERN stack).
+> - Seamless order placement, modern UI/UX, responsive design.
+
+---
+
+### 🛡️ Fleet Management – Indian Army
+> **Repo:** [ARMY](https://github.com/rohit7nkuamr/ARMY)  
+> **Languages:** JavaScript, MERN  
 > - Secure web app for real-time vehicle logistics/tracking.
 > - Real-time analytics dashboard and robust data protection.
 
 ---
 
-### 🍽️ Blaze Restaurant Website _(2023)_
-> **MERN | UI/UX | Responsive**
->
-> - Full-featured restaurant site; seamless order placement.
-> - Modern, smooth UI/UX with HTML, CSS, JS.
-
----
-
-### ♻️ Waste Management System _(2023–2024)_
-> **Analytics | Real-Time Systems | Backend**
->
+### ♻️ Waste Management System
+> **Repo:** (private/internal)  
+> **Languages:** Analytics, Real-Time Systems, Backend  
 > - Smart waste collection tracker using real-time data.
 > - Backend integration for efficient routing and analysis.
 
 ---
 
-### 🕹️ Game Dev Portfolio _(2022–Present)_
-> - Multiple Unity/C# projects: Game mechanics, AI features, interactive storytelling.
+### 🕹️ portfolio
+> **Repo:** [portfolio](https://github.com/rohit7nkuamr/portfolio)  
+> **Languages:** TypeScript, HTML, CSS  
+> - Personal web portfolio and showcase of selected works.
+
+---
+
+### 🔥 blaze-Beta
+> **Repo:** [blaze-Beta](https://github.com/rohit7nkuamr/blaze-Beta)  
+> **Languages:** HTML, JavaScript, CSS  
+> - Modern web prototype and experimental features for Blaze.
 
 ---
 
