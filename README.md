@@ -37,9 +37,7 @@
 
 | Degree | Institute | Year | Grade |
 |:------:|:---------:|:----:|:-----:|
-| **B.Tech, Computer Science (Graphics & Gaming)** | UPES Dehradun | 2022–Present | 7.00/10 CGPA |
-| 12th (Intermediate) | City Public School, Gaya | 2021 | 70.0% |
-| 10th (High School)  | City Public School, Gaya | 2019 | 68.0% |
+|
 
 ---
 
