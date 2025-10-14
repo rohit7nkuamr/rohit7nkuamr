@@ -25,8 +25,6 @@ I specialize in the **TypeScript/Next.js** ecosystem for creating robust, data-d
 | **[Project Alpha/Inventory Tracker]** | **Python, Toga, SQLite, Pandas** | A standalone, cross-platform desktop application for inventory management. *Showcases expertise in Python, local database management, and UI development using Toga/Briefcase.* |
 | **[BGMI Strategy Hub]** | **React, TypeScript, Leaflet** | A data-focused web application providing strategic insights and interactive maps for a popular game. *Highlights advanced front-end development and data visualization.* |
 
-*(Once you create the `rohit7nkuamr` repository, consider linking directly to the project repositories here!)*
-
 ---
 
 ## 🤝 Let's Connect
@@ -37,10 +35,3 @@ I specialize in the **TypeScript/Next.js** ecosystem for creating robust, data-d
 * **⚡ Fun fact:** [A short, interesting, and friendly fact about you]
 
 ---
-
-## 📈 My GitHub Activity
-
-```markdown
-[![rohit7nkuamr's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohit7nkuamr&show_icons=true&theme=vue)](https://github.com/rohit7nkuamr)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohit7nkuamr&layout=compact&theme=vue)](https://github.com/rohit7nkuamr)
