@@ -29,7 +29,7 @@ I specialize in the **TypeScript/Next.js** ecosystem for creating robust, data-d
 
 ## 🤝 Let's Connect
 
-* **🌐 Portfolio:** [Your Portfolio URL] *(Since you built a portfolio app in Next.js, definitely link it!)*
+* **🌐 Portfolio:** https://rohit7nkuamr.github.io/portfolio 
 * **🔗 LinkedIn:** [Your-LinkedIn-Username]
 * **💬 Ask me about:** Building scalable Next.js APIs, desktop application packaging, or optimizing database queries.
 * **⚡ Fun fact:** [A short, interesting, and friendly fact about you]
